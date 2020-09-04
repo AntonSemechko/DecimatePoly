@@ -1,4 +1,7 @@
 # Decimate 2D contours/polygons 
+
+[![View DecimatePoly on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/34639-decimatepoly)
+
 Have you ever worked with 2D boundary shape representations and noticed that the same shape can be represented with reasonable accuracy by a much smaller number of points? Did you ever need to reduce the complexity of a 2D shape while retaining as many salient features as possible? If so then `DecimatePoly.m` is the function you have been looking for.
 
 ## Quick Demos
